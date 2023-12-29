@@ -1,0 +1,3 @@
+C:\Users\sacha\source\repos\Fast Car\x64\Debug\Fast Car.vcxproj.CopyComplete
+C:\Users\sacha\source\repos\Fast Car\x64\Debug\Fast Car.exe
+C:\Users\sacha\source\repos\Fast Car\x64\Debug\raylib.dll

@@ -1,0 +1,9 @@
+﻿  Enemy.cpp
+  Game.cpp
+C:\Users\sacha\source\repos\Fast Car\Game.cpp(74,88): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\sacha\source\repos\Fast Car\Game.cpp(85,86): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\sacha\source\repos\Fast Car\Game.cpp(92,86): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Main.cpp
+  Player.cpp
+  Génération de code en cours...
+  Fast Car.vcxproj -> C:\Users\sacha\source\repos\Fast Car\x64\Debug\Fast Car.exe
